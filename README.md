@@ -1,8 +1,7 @@
 # Hi there, I'm **Yotor Hailu**! 👋
 
-[https://github.com/your-username/your-repo/blob/main/path/to/image.jpg?raw=true
-](https://github.com/yotor16/yotorhailu/blob/main/images/photo_2024-11-12_15-52-32.jpg?raw=true
-)
+<img src="https://github.com/yotor16/yotorhailu/blob/main/images/photo_2024-11-12_15-52-32.jpg?raw=true" width="150" alt="Yotor Hailu" align="right"/>
+
 ## About Me 🚀
 
 I'm a passionate **Junior Web Developer & Backend Engineer** with experience in **Python, JavaScript, SQL, and basic Java**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
