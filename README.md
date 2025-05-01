@@ -1,6 +1,6 @@
 # Hi there, I'm **Yotor Hailu**! 👋
 
-<img src="https://github.com/yotor16/yotorhailu/blob/main/images/photo_2024-11-12_15-52-32.jpg?raw=true" width="150" alt="Yotor Hailu" align="right"/>
+<img src="https://github.com/yotor16/yotorhailu/blob/main/images/photo_2024-11-12_15-52-32.jpg?raw=true" width="300" alt="Yotor Hailu" align="right" style="margin: 10px;"/>
 
 ## About Me 🚀
 
