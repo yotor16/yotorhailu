@@ -48,5 +48,5 @@ You can check out the repository.
 ## Get in Touch 📬
 
 - **[Personal Website / Blog](https://sites.google.com/view/yotor-hailu/home)**
-- **[Discord]([https://discord.com](https://discord.gg/yotor16))**
+- **[Discord](https://discord.gg/yotor16)**
 - **[Twitter](https://x.com/yotor1621)**
