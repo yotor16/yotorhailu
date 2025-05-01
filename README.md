@@ -31,7 +31,7 @@ I'm a passionate **Junior Web Developer & Backend Engineer** with experience in 
     <img src="https://github.com/yotor16/yotorhailu/blob/main/images/Screenshot from 2025-05-01 11-09-00.png?raw=true" width="1200" height="600" alt="Yotor Hailu" style="border-radius: 50%;"/>
 </div>
 e-Plane is a local travel platform designed to promote tourism within Ethiopia by offering affordable travel packages and convenient online booking for top hotels and flights. It helps users explore the beauty of Ethiopia with comfort and ease.  
-You can check out the repository [here](project_1_repository_link).
+You can check out the repository.
 
 ---
 
@@ -40,7 +40,7 @@ You can check out the repository [here](project_1_repository_link).
 ![ATM System Screenshot](project_2_screenshot_url) <!-- Replace with a screenshot image link -->
 
 **ATM Management System** is a **Java-based console application** built with **Java, MySQL, and NetBeans**. This project showcases my skills in **object-oriented programming, backend logic, and database integration**.  
-You can check out the repository [here](project_2_repository_link).
+You can check out the repository.
 
 ---
 
