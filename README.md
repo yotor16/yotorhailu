@@ -25,7 +25,7 @@ I'm a passionate **Junior Web Developer & Backend Engineer** with experience in 
 
 ## Featured Projects 💻
 
-### [Rescue Ready](project_1_link)
+### [E-Plane](project_1_link)
 
 ![Rescue Ready Screenshot](project_1_screenshot_url) <!-- Replace with a screenshot image link -->
 
