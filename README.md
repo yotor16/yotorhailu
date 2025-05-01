@@ -28,7 +28,7 @@ I'm a passionate **Junior Web Developer & Backend Engineer** with experience in 
 ### [E-Plane](project_1_link)
 
 <div style="display: flex; justify-content: center; align-items: center; text-align: center;">
-    <img src="https://github.com/yotor16/yotorhailu/blob/main/images/Screenshot from 2025-05-01 11-09-00.png?raw=true" width="200" height="200" alt="Yotor Hailu" style="border-radius: 50%;"/>
+    <img src="https://github.com/yotor16/yotorhailu/blob/main/images/Screenshot from 2025-05-01 11-09-00.png?raw=true" width="700" height="600" alt="Yotor Hailu" style="border-radius: 50%;"/>
 </div>
 **Rescue Ready** is an **emergency response and first-aid education app** built with **React, Firebase, and Figma**. This project demonstrates my ability to **design user-centered interfaces and guide users through interactive learning modules**.  
 You can check out the repository [here](project_1_repository_link).
