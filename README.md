@@ -1,11 +1,11 @@
 # Hi there, I'm **Yotor Hailu**! 👋
 
-<img src="https://github.com/yotor16/yotorhailu/blob/main/images/photo_2024-11-12_15-52-32.jpg?raw=true" width="300" alt="Yotor Hailu" align="right" style="margin: 10px;"/>
+<img src="https://github.com/yotor16/yotorhailu/blob/main/images/photo_2024-11-12_15-52-32.jpg?raw=true" width="200" height="200" alt="Yotor Hailu" style="border-radius: 50%; float: left; margin-right: 15px;"/>
+
 
 ## About Me 🚀
 
 I'm a passionate **Junior Web Developer & Backend Engineer** with experience in **Python, JavaScript, SQL, and basic Java**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
-<img src="https://github.com/yotor16/yotorhailu/blob/main/images/photo_2024-11-12_15-52-32.jpg?raw=true" width="150" alt="Yotor Hailu" align="right"/>
 
 
 - 🌱 Currently learning: **Backend Development and Data Science at ALX**
