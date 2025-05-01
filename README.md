@@ -1,6 +1,6 @@
 # Hi there, I'm **Yotor Hailu**! 👋
 
-![Banner Image](your_banner_image_url_here) <!-- Replace with your banner image link -->
+![Banner Image](https://github.com/yotor16/yotorhailu/blob/main/images/photo_2024-11-12_15-52-32.jpg?raw=true)
 
 ## About Me 🚀
 
