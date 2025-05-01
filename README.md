@@ -35,11 +35,12 @@ You can check out the repository.
 
 ---
 
-### [ATM Management System](project_2_link)
+### [Ethio-Consult](project_2_link)
 
-![ATM System Screenshot](project_2_screenshot_url) <!-- Replace with a screenshot image link -->
-
-**ATM Management System** is a **Java-based console application** built with **Java, MySQL, and NetBeans**. This project showcases my skills in **object-oriented programming, backend logic, and database integration**.  
+<div style="display: flex; justify-content: center; align-items: center; text-align: center;">
+    <img src="https://github.com/yotor16/yotorhailu/blob/main/images/Screenshot from 2025-05-01 11-18-57.png?raw=true" width="1200" height="600" alt="Yotor Hailu" style="border-radius: 50%;"/>
+</div>
+e-Consult is a professional consulting platform that connects individuals and businesses in Ethiopia with expert advisors across various fields, including business development, technology, finance, and education. The platform offers personalized guidance, strategic support, and easy appointment booking to help users achieve their goals. 
 You can check out the repository.
 
 ---
