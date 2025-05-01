@@ -47,6 +47,6 @@ You can check out the repository.
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog](your_website_or_blog_link)**
+- **[Personal Website / Blog][(your_website_or_blog_link)](https://sites.google.com/view/yotor-hailu/home)**
 - **[LinkedIn](your_linkedin_profile_link)**
 - **[Twitter](your_twitter_profile_link)**
