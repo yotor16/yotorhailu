@@ -7,7 +7,7 @@ I'm a passionate **Junior Web Developer & Backend Engineer** with experience in 
 
 
 - 🌱 Currently learning: **Backend Development and Data Science at ALX**
-- 🔭 Working on: **Projects like Rescue Ready (emergency response app) and ATM System with Java & MySQL**
+- 🔭 Working on: **Projects like E-Plane(local travel platform ) and Ethio-Consult**
 - 🌍 Languages: **Python, JavaScript, Java, SQL, Amharic, English**
 - 📫 How to reach me: **yotorhailu16@gmail.com**
 - ⚡ Fun fact: **I love transforming real-life challenges into code-driven solutions!**
@@ -48,5 +48,5 @@ You can check out the repository.
 ## Get in Touch 📬
 
 - **[Personal Website / Blog](https://sites.google.com/view/yotor-hailu/home)**
-- **[LinkedIn](your_linkedin_profile_link)**
-- **[Twitter](your_twitter_profile_link)**
+- **[Discord]([https://discord.com](https://discord.gg/yotor16))**
+- **[Twitter](https://x.com/yotor1621)**
