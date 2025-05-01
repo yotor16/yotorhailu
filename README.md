@@ -1,9 +1,6 @@
 # Hi there, I'm **Yotor Hailu**! 👋
 
 
-
-
-
 ## About Me 🚀
 
 I'm a passionate **Junior Web Developer & Backend Engineer** with experience in **Python, JavaScript, SQL, and basic Java**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
@@ -12,12 +9,13 @@ I'm a passionate **Junior Web Developer & Backend Engineer** with experience in 
 - 🌱 Currently learning: **Backend Development and Data Science at ALX**
 - 🔭 Working on: **Projects like Rescue Ready (emergency response app) and ATM System with Java & MySQL**
 - 🌍 Languages: **Python, JavaScript, Java, SQL, Amharic, English**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **yotorhailu16@gmail.com**
 - ⚡ Fun fact: **I love transforming real-life challenges into code-driven solutions!**
 
 ## My Skills 🧠
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
