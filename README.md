@@ -1,39 +1,52 @@
-Hi there, I'm Yotor Hailu! 👋
+# Hi there, I'm **Yotor Hailu**! 👋
 
+![Banner Image](your_banner_image_url_here) <!-- Replace with your banner image link -->
 
-About Me 🚀
-I'm a passionate Junior Web Developer & Backend Engineer with experience in Python, JavaScript, SQL, and basic Java. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+## About Me 🚀
 
-🌱 Currently learning: Backend Development and Data Science at ALX
+I'm a passionate **Junior Web Developer & Backend Engineer** with experience in **Python, JavaScript, SQL, and basic Java**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-🔭 Working on: Projects like Rescue Ready (emergency response app) and ATM System with Java & MySQL
+- 🌱 Currently learning: **Backend Development and Data Science at ALX**
+- 🔭 Working on: **Projects like Rescue Ready (emergency response app) and ATM System with Java & MySQL**
+- 🌍 Languages: **Python, JavaScript, Java, SQL, Amharic, English**
+- 📫 How to reach me: **your.email@example.com**
+- ⚡ Fun fact: **I love transforming real-life challenges into code-driven solutions!**
 
-🌍 Languages: Python, JavaScript, Java, SQL, Amharic, English
+## My Skills 🧠
 
-📫 How to reach me: your.email@example.com
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-⚡ Fun fact: I love transforming real-life challenges into code-driven solutions!
+*Replace the above skill badges with your own skills and expertise. To create more badges, use [this badge generator](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
-My Skills 🧠
+## Featured Projects 💻
 
+### [Rescue Ready](project_1_link)
 
+![Rescue Ready Screenshot](project_1_screenshot_url) <!-- Replace with a screenshot image link -->
 
-Replace the above skill badges with your own skills and expertise. To create more badges, use this badge generator.
+**Rescue Ready** is an **emergency response and first-aid education app** built with **React, Firebase, and Figma**. This project demonstrates my ability to **design user-centered interfaces and guide users through interactive learning modules**.  
+You can check out the repository [here](project_1_repository_link).
 
-Featured Projects 💻
-Rescue Ready
+---
 
+### [ATM Management System](project_2_link)
 
-Rescue Ready is an emergency response and first-aid education app built with React, Firebase, and Figma. This project demonstrates my ability to design user-centered interfaces and guide users through interactive learning modules. You can check out the repository here.
+![ATM System Screenshot](project_2_screenshot_url) <!-- Replace with a screenshot image link -->
 
-ATM Management System
+**ATM Management System** is a **Java-based console application** built with **Java, MySQL, and NetBeans**. This project showcases my skills in **object-oriented programming, backend logic, and database integration**.  
+You can check out the repository [here](project_2_repository_link).
 
+---
 
-ATM Management System is a Java-based console application built with Java, MySQL, and NetBeans. This project showcases my skills in object-oriented programming, backend logic, and database integration. You can check out the repository here.
+## Get in Touch 📬
 
-Get in Touch 📬
-Personal Website / Blog
-
-LinkedIn
-
-Twitter
+- **[Personal Website / Blog](your_website_or_blog_link)**
+- **[LinkedIn](your_linkedin_profile_link)**
+- **[Twitter](your_twitter_profile_link)**
